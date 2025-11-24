@@ -1,5 +1,4 @@
-
-2️⃣ Backend README — Instagram Clone
+ Backend README — Instagram Clone
 # Instagram Clone (Backend)
 
 This is the **Node.js + Express backend** for the Instagram Clone project.  

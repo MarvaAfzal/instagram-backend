@@ -24,4 +24,3 @@ It handles authentication, database management, API endpoints, and the core busi
 - Nodemon (for development)  
 - JavaScript (ES6+)
 
-## 📁 Project Str

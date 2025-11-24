@@ -1,17 +1,11 @@
 
----
-
-# **2️⃣ Backend README — Instagram Clone**
-
-```markdown
+2️⃣ Backend README — Instagram Clone
 # Instagram Clone (Backend)
 
 This is the **Node.js + Express backend** for the Instagram Clone project.  
 It handles authentication, database management, API endpoints, and the core business logic.
 
----
-
-## 🚀 Features
+##  Features
 
 - User authentication with JWT (signup & login)  
 - CRUD operations for posts  
@@ -21,7 +15,7 @@ It handles authentication, database management, API endpoints, and the core busi
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Node.js  
 - Express.js  
@@ -30,7 +24,4 @@ It handles authentication, database management, API endpoints, and the core busi
 - Nodemon (for development)  
 - JavaScript (ES6+)
 
----
-
-## 📁 Project Structure
-
+## 📁 Project Str
